@@ -17,7 +17,9 @@ security sandbox of Common Language Runtime ( CLR )
 The Author of the compiler is Praseed Pai K.T , who is the author of ".NET Design Patterns" and "C++ Reactive Programming"
 published by Packt Publishing.
 
-An E-book titled "The Art of Compiler Construction using C#" is available in the "CompilerEbook" folder of the download.
+An E-book titled "The Art of Compiler Construction using C#" is available in the "CompilerEbook" folder of the download. The book
+can also be downloaded from https://github.com/praseedpai/CompilerConstructionBook
+
 
 The Compiler has been used by College students and Academia for their Academic Projects. The kind of
 projects on top of this undertaken include Slang to C# translator , Addition of features like
