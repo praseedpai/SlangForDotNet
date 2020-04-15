@@ -39,3 +39,11 @@ The Port of compiler to other languages are
 
 *Python Interpreter: https://github.com/faisalp4p/slang-python
 
+"Java with support for Apache BCEL" : https://github.com/bvaisakh/slang4JVM
+
+"Java with support for Lambda Functions" : https://github.com/nsarathsoman/slang4JVM
+
+"VB.net "  :  https://github.com/rinoreji/SLANG.NET
+
+
+
