@@ -45,5 +45,7 @@ The Port of compiler to other languages are
 
 "VB.net "  :  https://github.com/rinoreji/SLANG.NET
 
+"JS" :- https://github.com/shinexavier/SlangJS
+
 
 
