@@ -14,9 +14,10 @@ customization language which generates the code on the fly. This can be consider
 "safe" self modifying code. This method will give native code generation facility (via JIT) along with the
 security sandbox of Common Language Runtime ( CLR )
 
-The Author of the compiler is Praseed Pai K.T and his blog can be acessed from http://praseedp.blogspot.com
+The Author of the compiler is Praseed Pai K.T , who is the author of ".NET Design Patterns" and "C++ Reactive Programming"
+published by Packt Publishing.
 
-An E-book titled "The Art of Compiler Construction using C#" is available in the DOC folder of the download.
+An E-book titled "The Art of Compiler Construction using C#" is available in the "CompilerEbook" folder of the download.
 
 The Compiler has been used by College students and Academia for their Academic Projects. The kind of
 projects on top of this undertaken include Slang to C# translator , Addition of features like
