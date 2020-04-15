@@ -1,5 +1,5 @@
 # SlangForDotNet
-The Source code of the Slang4.net Compiler 
+The Source code of the Slang4.net Compiler ( The Source were earlier @ htpp://slangfordotnet.codeplex.com )
 
 The Project aims to show how one can build a compiler using C# and the Reflection.Emit namespace. The name of the language is SLANGFOR.NET ( Simple LANGuage FOR .net )
 
